@@ -15,6 +15,6 @@
 
 ### Trouble Shooting
 
-- Redux를 통한 Modal Open 상태관리 구현
- *동일한 state값에 따라 Modal 2개가 모두 반영되는 상황 발생
-  *useState를 활용해서 2개의 value로 각각 Open 상태 반영
+ * Redux를 통한 Modal Open 상태관리 구현
+  * 동일한 state값에 따라 Modal 2개가 모두 반영되는 상황 발생
+    * useState를 활용해서 2개의 value로 각각 Open 상태 반영
