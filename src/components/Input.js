@@ -41,7 +41,8 @@ function Input() {
                 </div>
 
                 <div>
-                    <ST.ButtonStyle onClick={alertFuction}>저장</ST.ButtonStyle>
+                    <ST.ButtonStyle borderColor="black" backgroundColor="black" fontColor="black"
+                    onClick={alertFuction}>저장</ST.ButtonStyle>
                 </div>
             </ST.ContentStyle>
         </div>
