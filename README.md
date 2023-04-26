@@ -4,7 +4,7 @@
 
 ### 배포
 
-배포후 등록예정
+https://react-lv3-psi.vercel.app/
 
 ### 구현 기능
 
